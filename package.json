@@ -3,12 +3,17 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-tailwind/react": "^2.1.10",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "ajv": "^8.17.1",
+    "heroicons": "^2.2.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
+    "react-slick": "^0.30.3",
+    "slick-carousel": "^1.8.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -34,5 +39,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/react-slick": "^0.23.13",
+    "ajv-keywords": "^5.1.0",
+    "schema-utils": "^4.3.0",
+    "tailwindcss": "^3.4.17",
+    "webpack": "^5.97.1",
+    "webpack-dev-server": "^5.2.0"
   }
 }
