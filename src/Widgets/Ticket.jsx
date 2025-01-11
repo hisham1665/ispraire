@@ -28,7 +28,7 @@ function Ticket() {
               <h1 className='text-xl font-semibold'>{event.type}</h1>
             </div>
             <div>
-              <h1 className='text-3xl font-semibold mt-2'>{event.title}</h1>
+              <h1 className='abril-fatface-regular text-3xl font-semibold mt-2'>{event.title}</h1>
             </div>
             <div>
               <h3 className='font-medium mt-2'>
