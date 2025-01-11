@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ispraire/static/css/main.322c781d.css",
+    "main.js": "/ispraire/static/js/main.24121db7.js",
+    "static/js/453.4a603913.chunk.js": "/ispraire/static/js/453.4a603913.chunk.js",
+    "index.html": "/ispraire/index.html",
+    "main.322c781d.css.map": "/ispraire/static/css/main.322c781d.css.map",
+    "main.24121db7.js.map": "/ispraire/static/js/main.24121db7.js.map",
+    "453.4a603913.chunk.js.map": "/ispraire/static/js/453.4a603913.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.322c781d.css",
+    "static/js/main.24121db7.js"
+  ]
+}
