@@ -62,20 +62,20 @@ function NavBar() {
             />
           </svg>
         </button>
-        <a href="#" className="block text-sm font-semibold text-gray-900 hover:text-gray-700 mb-4">
+        <a href="/" className="block text-sm font-semibold text-gray-900 hover:text-gray-700 mb-4">
           Home
         </a>
-        <a href="#" className="block text-sm font-semibold text-gray-900 hover:text-gray-700 mb-4">
+        <a href="/about" className="block text-sm font-semibold text-gray-900 hover:text-gray-700 mb-4">
           About
         </a>
-        <a href="#" className="block text-sm font-semibold text-gray-900 hover:text-gray-700 mb-4">
+        <a href="/contactus" className="block text-sm font-semibold text-gray-900 hover:text-gray-700 mb-4">
           Contact Us
         </a>
-        <a href="#" className="block text-sm font-semibold text-gray-900 hover:text-gray-700 mb-4">
+        <a href="/events" className="block text-sm font-semibold text-gray-900 hover:text-gray-700 mb-4">
           Events
         </a>
         <div className="block text-sm font-semibold text-gray-900 hover:text-gray-700 mb-4">
-          <button > Register <span aria-hidden="true" className=''>&rarr;</span> </button>
+          <button onClick={handleToggle}> Register <span aria-hidden="true" className=''>&rarr;</span> </button>
         </div>
       </div>
     </header>
