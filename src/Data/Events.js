@@ -19,7 +19,7 @@ export const events = [
     },
     {
       title: "Stock Market Workshop",
-      time: "11:00 AM - 2:00 PM",
+      time: "2:00 PM - 5:00 PM",
       type: "Workshop",
       speaker: "Mr. John Smith",
       poster: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_4r5rYX-jmkZp6lUs-mciD1xlSJ0n7dx5uw&s", // Replace with actual poster URL
@@ -28,10 +28,19 @@ export const events = [
     },
     {
       title: "Competition",
-      time: "9:00 AM - 5:00 PM",
+      time: "5:00 AM - 6:00 PM",
       type: "Hackathon",
       speaker: "Panel of Judges",
       poster: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoR8bzppiYo9rIHOaSkENUMfX0qD6fefoskA&s", // Replace with actual poster URL
+      description:
+        "Showcase your skills and creativity in a thrilling competition judged by experts.",
+    },
+    {
+      title: "Band Show",
+      time: "6:00 AM - 7:30 PM",
+      type: "Band SHow By Aathma The MUsic Band",
+      speaker: "Team Aathma",
+      poster: "https://media.istockphoto.com/id/502088147/photo/nothing-beats-live-music.jpg?s=612x612&w=0&k=20&c=N0RrfR0z1P1Q0DUCJIcEBFV8yxT6xF-wQilMv00O7kA=", // Replace with actual poster URL
       description:
         "Showcase your skills and creativity in a thrilling competition judged by experts.",
     },
