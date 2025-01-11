@@ -38,7 +38,7 @@ export const events = [
     {
       type: "Band Show",
       time: "6:00 AM - 7:30 PM",
-      title: "Band SHow By Aathma The MUsic Band",
+      title: "Band Show By Aathma The Music Band",
       speaker: "Team Aathma",
       poster: "https://media.istockphoto.com/id/502088147/photo/nothing-beats-live-music.jpg?s=612x612&w=0&k=20&c=N0RrfR0z1P1Q0DUCJIcEBFV8yxT6xF-wQilMv00O7kA=", // Replace with actual poster URL
       description:
