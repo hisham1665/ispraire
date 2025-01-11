@@ -32,7 +32,7 @@ function Ticket() {
             </div>
             <div>
               <h3 className='font-medium mt-2'>
-                Speaker: <span className='text-xl font-semibold'>{event.speaker}</span>
+                Speaker: <span className='text-xl font-medium'>{event.speaker}</span>
               </h3>
             </div>
             <div className='mt-4'>
