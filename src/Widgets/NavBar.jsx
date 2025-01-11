@@ -75,7 +75,7 @@ function NavBar() {
           Events
         </a>
         <div className="block text-sm font-semibold text-gray-900 hover:text-gray-700 mb-4">
-          <button onClick={handleToggle}> Register <span aria-hidden="true" className=''>&rarr;</span> </button>
+          <button onClick={handleRegister}> Register <span aria-hidden="true" className=''>&rarr;</span> </button>
         </div>
       </div>
     </header>

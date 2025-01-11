@@ -3,7 +3,9 @@ import { events } from '../Data/Events.js';
 
 function Ticket() {
   const eventing = events;
-
+  const handleRegister = () => {
+    window.open("https://docs.google.com/forms/d/e/1FAIpQLSfByUrJUlmaz6SMI7WIotOXyzHPhNbdPlqd2uxM8s4q-aEJJQ/viewform?usp=header","_blank");
+  }
   return (
     <div className='flex flex-col items-center'>
       {eventing.map((event) => (
@@ -34,7 +36,7 @@ function Ticket() {
               </h3>
             </div>
             <div className='mt-4'>
-              <button className='h-10 w-32 bg-lime-300 rounded-lg hover:bg-lime-400 transition-colors'>
+              <button className='h-10 w-32 bg-lime-300 rounded-lg hover:bg-lime-400 transition-colors'onClick={handleRegister}>
                 Register Now
               </button>
             </div>
