@@ -7,7 +7,7 @@ const AboutEvent = () => {
       <h1 className="text-4xl font-bold text-center  mb-4">Ispirare 2.0</h1>
       <p className="text-lg text-gray-800 leading-relaxed mb-6">
         <strong>Ispirare 2.0</strong>, the flagship event of the IEEE Kerala Section, is set to be a 
-        remarkable edition, focusing on the theme of <em>“Empowering Leadership, Strengthening Innovation.”</em> 
+        remarkable edition, focusing on the theme of <em>“Empowering Leadership, Strengthening Innovation and Enterprenuership.”</em> 
         This year's event promises an engaging lineup of activities designed to inspire participants, cultivate leadership, 
         and encourage technological advancements. The event will take place across various venues in Kerala, combining both 
         online and offline interactions for maximum participation.
